@@ -1,0 +1,8 @@
+{
+  "name": "git-workflow-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dauleduc2/git-workflow-test.git",
+  "author": "DucDau <phu.nguyen@tppsoft.com>",
+  "license": "MIT"
+}
